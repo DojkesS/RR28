@@ -1,0 +1,7 @@
+a = 1/2
+a += 1 + 1
+b = 3*8
+c = 3
+c -=2/1
+
+print (a, b, c, b/a/c, "think about this bruh",)
